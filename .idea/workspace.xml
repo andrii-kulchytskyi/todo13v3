@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="059dc5e4-8c2f-42b2-b96d-081f057bc2c7" name="Changes" comment="" />
+    <list default="true" id="059dc5e4-8c2f-42b2-b96d-081f057bc2c7" name="Changes" comment="tasks .....">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/tasklist-api.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/tasklist-api.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stories/todolists-api.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/stories/todolists-api.stories.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,10 +72,24 @@
       <updated>1677771979601</updated>
       <workItem from="1677771981021" duration="7551000" />
       <workItem from="1677834812710" duration="7285000" />
+      <workItem from="1678233552969" duration="1599000" />
+      <workItem from="1678276507085" duration="810000" />
     </task>
+    <task id="LOCAL-00001" summary="tasks .....">
+      <created>1678274381311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678274381311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tasks ....." />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks ....." />
   </component>
 </project>
